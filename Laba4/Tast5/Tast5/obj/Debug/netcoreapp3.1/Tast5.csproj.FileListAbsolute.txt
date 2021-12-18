@@ -1,0 +1,14 @@
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.exe
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.deps.json
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.runtimeconfig.json
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.runtimeconfig.dev.json
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.dll
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\bin\Debug\netcoreapp3.1\Tast5.pdb
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.AssemblyInfoInputs.cache
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.AssemblyInfo.cs
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.dll
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.pdb
+C:\Users\intre\source\repos\Laba4\Tast5\Tast5\obj\Debug\netcoreapp3.1\Tast5.genruntimeconfig.cache

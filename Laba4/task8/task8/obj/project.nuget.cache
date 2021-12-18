@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYqEyLi4jpE6arKMP5Z/o89rXRt1FAcaHYD6Hx1FBcGa14XCnODfIShAAuA0aHx2GpB8f0OyKv/P+PLJ9nI9cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intre\\source\\repos\\Laba4\\task8\\task8\\task8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

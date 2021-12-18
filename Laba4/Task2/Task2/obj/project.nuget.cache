@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2l4XsWMrh/kRJOvzXK8jhjHWOGXW8ugGNnLGx7AEGV9HrgPr18mV2rZW21TO/4wMXV+hSYDXKO9Vn9mhxNW+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intre\\source\\repos\\Laba4\\Task2\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

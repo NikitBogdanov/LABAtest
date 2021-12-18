@@ -1,0 +1,14 @@
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.exe
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.deps.json
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.json
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.dev.json
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.dll
+C:\Users\intre\source\repos\Laba4\Task9\Task9\bin\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfoInputs.cache
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfo.cs
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.dll
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.pdb
+C:\Users\intre\source\repos\Laba4\Task9\Task9\obj\Debug\netcoreapp3.1\Task9.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNjOFbBjWWT8Q4TPovlAGgIyRuGOFbtnXtcCYCOaZjfTy7i3l0j154sj178XQzAUFdOYrsI/KVzGoqx03Ep/HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intre\\source\\repos\\Laba4\\Tast5\\Tast5\\Tast5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
